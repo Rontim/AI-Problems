@@ -39,7 +39,7 @@ In this repository, we explore different AI problems and provide solutions. Whet
 ## Getting Started
 Clone this repository: 
 ```bash
-git clone https://github.com/yourusername/ai-problems.git
+git clone https://github.com/Rontim/AI-Problems.git
 ```
 Navigate to the relevant problem directory.
 Follow the instructions provided in each problem’s README.
